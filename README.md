@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greenfield Course Registration PHP Project
 
 This project is rebuilt to match your existing `greenfield_registration.sql` schema. It uses your tables and columns:
@@ -64,3 +65,7 @@ The first successful demo login will rewrite the broken seed hash to a valid PHP
 - Student registration/drop updates the `registrations` table.
 - Your MySQL triggers update `available_seats` automatically.
 - Registration validates password length, password match, email, full name, and student ID format.
+=======
+# Greenfield-Institute
+A PHP/MySQL course registration system for Greenfield Institute with student enrollment, admin course management, session-based authentication, and real-time seat availability tracking.
+>>>>>>> e7ee193b3a34885a8d3f3618b088813a13cd9e43
